@@ -12,31 +12,333 @@ Please look at the Errata for Foundations of Applied Superconductivity ([PDF]({{
 
 Related readings can be found in the [related resources]({{< baseurl >}}/pages/related-resources) section.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Survey of Superconductivity | Chapter 1 |
-| 2 | Perfect Conductivity | Sections 2.1-2.3 |
-| 3 | Magnetoquasistatics | Section 2.4 |
-| 4 | London's Equations | Sections 2.5-2.6 |
-| 5 | Classical Model of a Superconductor | Sections 3.1-3.4 |
-| 6 | Electromagnetic Power | Section 3.5 |
-| 7 | Transmission Lines | Sections 4.2, 4.4 |
-| 8 | Perfect Diamagnetism | Section 4.5 |
-| 9 | Macroscopic Quantum Model | Sections 5.1-5.4 |
-| 10 | Supercurrent Equation | Section 5.5 |
-| 11 | Basic Josephson Junctions | Sections 8.1-8.2 |
-| 12 | SQUIDs | Sections 8.3-8.4 |
-| 13 | Generalized Josephson Junctions | Sections 9.1-9.2 |
-| 14 | Josephson Circuits and Devices I | Sections 9.3-9.6 |
-| 15 | Superconducting Digital Circuits | &nbsp; |
-| 16 | Type II Superconductors and Thermo | Sections 6.3-6.4 |
-| 17 | Critical Fieds, Flux Flow, Pinning | Sections 6.5 and 7.1-7.5 |
-| 18 | Ginzburg-Landau Theory | Sections 10.1-10.3 |
-| 19 | Microscopic Interactions and Cooper Problem | &nbsp; |
-| 20 | BCS I | &nbsp; |
-| 21 | BCS II | &nbsp; |
-| 22 | Quantum Circuits I | &nbsp; |
-| 23 | Quantum Circuits II | &nbsp; |
-| 24 | Quantum Tunneling Devices and Detectors | &nbsp; |
-| 25 | Quantum Tunneling Devices and Detectors (cont.) | &nbsp; |
-| 26 | Class Presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Survey of Superconductivity
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Perfect Conductivity
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 2.1-2.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetoquasistatics
+{{< tdclose >}}
+{{< tdopen >}}
+Section 2.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+London's Equations
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 2.5-2.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Classical Model of a Superconductor
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 3.1-3.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Electromagnetic Power
+{{< tdclose >}}
+{{< tdopen >}}
+Section 3.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Transmission Lines
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 4.2, 4.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Perfect Diamagnetism
+{{< tdclose >}}
+{{< tdopen >}}
+Section 4.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Macroscopic Quantum Model
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 5.1-5.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Supercurrent Equation
+{{< tdclose >}}
+{{< tdopen >}}
+Section 5.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Basic Josephson Junctions
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 8.1-8.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+SQUIDs
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 8.3-8.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Generalized Josephson Junctions
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 9.1-9.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Josephson Circuits and Devices I
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 9.3-9.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Superconducting Digital Circuits
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Type II Superconductors and Thermo
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 6.3-6.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Critical Fieds, Flux Flow, Pinning
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 6.5 and 7.1-7.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Ginzburg-Landau Theory
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 10.1-10.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Microscopic Interactions and Cooper Problem
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+BCS I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+BCS II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Circuits I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Circuits II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Tunneling Devices and Detectors
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Tunneling Devices and Detectors (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Class Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

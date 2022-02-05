@@ -4,31 +4,345 @@ title: Calendar
 uid: f8baabaa-1c45-fc4f-2b20-a24ad746a55c
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Survey of Superconductivity | Problem set 1 out |
-| 2 | Perfect Conductivity |  |
-| 3 | Magnetoquasistatics |  |
-| 4 | London's Equations | Problem set 1 due  {{< br >}}  {{< br >}}Problem set 2 out |
-| 5 | Classical Model of a Superconductor |  |
-| 6 | Electromagnetic Power |  |
-| 7 | Transmission Lines | Problem set 2 due  {{< br >}}  {{< br >}}Problem set 3 out |
-| 8 | Perfect Diamagnetism |  |
-| 9 | Macroscopic Quantum Model | Problem set 3 due  {{< br >}}  {{< br >}}Problem set 4 out |
-| 10 | Supercurrent Equation | Topic for project due |
-| 11 | Basic Josephson Junctions |  |
-| 12 | SQUIDs | Problem set 4 due  {{< br >}}  {{< br >}}Problem set 5 out |
-| 13 | Generalized Josephson Junctions |  |
-| 14 | Josephson Circuits and Devices I | Problem set 5 due  {{< br >}}  {{< br >}}Problem set 6 out |
-| 15 | Superconducting Digital Circuits |  |
-| 16 | Type II Superconductors and Thermo | Problem set 6 due  {{< br >}}  {{< br >}}Problem set 7 out |
-| 17 | Critical Fieds, Flux Flow, Pinning |  |
-| 18 | Ginzburg-Landau Theory | Problem set 7 due |
-| 19 | Microscopic Interactions and Cooper Problem | Outline for project due |
-| 20 | BCS I |  |
-| 21 | BCS II |  |
-| 22 | Quantum Circuits I |  |
-| 23 | Quantum Circuits II |  |
-| 24 | Quantum Tunneling Devices and Detectors |  |
-| 25 | Quantum Tunneling Devices and Detectors (cont.) | Project due |
-| 26 | Class Presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Survey of Superconductivity
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Perfect Conductivity
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetoquasistatics
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+London's Equations
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due  
+  
+Problem set 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Classical Model of a Superconductor
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Electromagnetic Power
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Transmission Lines
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due  
+  
+Problem set 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Perfect Diamagnetism
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Macroscopic Quantum Model
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due  
+  
+Problem set 4 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Supercurrent Equation
+{{< tdclose >}}
+{{< tdopen >}}
+Topic for project due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Basic Josephson Junctions
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+SQUIDs
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due  
+  
+Problem set 5 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Generalized Josephson Junctions
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Josephson Circuits and Devices I
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due  
+  
+Problem set 6 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Superconducting Digital Circuits
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Type II Superconductors and Thermo
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due  
+  
+Problem set 7 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Critical Fieds, Flux Flow, Pinning
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Ginzburg-Landau Theory
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Microscopic Interactions and Cooper Problem
+{{< tdclose >}}
+{{< tdopen >}}
+Outline for project due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+BCS I
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+BCS II
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Circuits I
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Circuits II
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Tunneling Devices and Detectors
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Tunneling Devices and Detectors (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Project due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Class Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

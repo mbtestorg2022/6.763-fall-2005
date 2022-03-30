@@ -5,6 +5,7 @@ description: This resource includes information on a superconducting vortex2, vo
   gibbs free energy (and co-energy), equilibrium phase diagrams, and critical fields.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-763-applied-superconductivity-fall-2005/315865539c8f6e35ab1a8d5ecd19e5e4_lecture16.pdf
 file_type: application/pdf
+parent_uid: 6578b634-68d1-9a5d-182a-c23165270ed8
 resourcetype: Document
 title: lecture16.pdf
 uid: 31586553-9c8f-6e35-ab1a-8d5ecd19e5e4
